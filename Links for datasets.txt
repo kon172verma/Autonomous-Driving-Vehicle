@@ -1,0 +1,5 @@
+Since the datasets are huge and can not be uploaded on Github, there are folders created for the same on google drive. 
+
+The links for datasets are as follows:
+ * Raw Dataset : https://drive.google.com/drive/folders/17LSETFVS1UpORog0AT2R7bDdGnLzV8_M?usp=sharing
+ * Processed Dataset : https://drive.google.com/drive/folders/1M7GB03XJGAqPAf7dtQEaHLaMG5M-7E-Y?usp=sharing
